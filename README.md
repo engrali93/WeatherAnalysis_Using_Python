@@ -29,3 +29,11 @@ The program is divided into two methods.
 as you can see the graph mentioned below.
 
 ![alt text](https://github.com/engrali93/WeatherAnalysis_Using_Python/blob/main/graph%20output/Figure_1.png)
+
+
+2) We use filter to evaluate via different factor
+
+as mentioned in subplot diagram below
+
+![alt text](https://github.com/engrali93/WeatherAnalysis_Using_Python/blob/main/graph%20output/Figure_2.png)
+
